@@ -12,9 +12,16 @@
 **Stop, drop and roll.** Wrap them in something thick (a wool or cotton coat,
 rug or blanket) to smother the flames, and pour water on them.
 
+![Wrapping a person in a coat to smother flames](images/burns-smother-flames.png)
+![Person covered and rolled on the ground](images/burns-roll-on-ground.png)
+
+*Smother the flames and roll them on the ground.*
+
 **Electrical burn:** don't touch the person while they may still be in contact
 with power. Push them away from the source with something **non-metal and
 dry** (a wooden broom handle, for example).
+
+![Using a dry wooden pole to push a person away from an electric wire](images/burns-electrical-push-away.png)
 
 ## Is it serious? Get emergency help if:
 
@@ -69,3 +76,4 @@ dry** (a wooden broom handle, for example).
   https://medlineplus.gov/ency/article/000030.htm
 - healthdirect (Australian Government), Burns and scalds:
   https://www.healthdirect.gov.au/burns-and-scalds
+- Drawings: see [images/CREDITS.md](images/CREDITS.md)

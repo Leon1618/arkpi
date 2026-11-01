@@ -11,6 +11,10 @@ Ask: **"Are you choking? Can you speak?"**
 If they can **cough hard, speak or breathe**, don't interfere. Coughing is the
 best way to clear it. Stay with them and be ready to act if it gets worse.
 
+![A man clutching his throat with both hands](images/choking-universal-sign.png)
+
+*Hands at the throat: the universal sign of choking.*
+
 ## If they can't speak, cough or breathe
 
 Repeat **5 back blows, then 5 abdominal thrusts**, until the object comes out
@@ -29,6 +33,10 @@ or the person passes out.
 2. Make a fist. Put the **thumb side just above the belly button**, well
    below the breastbone.
 3. Grab the fist with your other hand and pull **quickly inward and upward**.
+
+![Rescuer behind the person, arms around the waist, fist above the belly button](images/choking-abdominal-thrust.png)
+
+*Abdominal thrust (US method).*
 
 **Pregnant or very large person:** use **chest thrusts** instead. Put your
 fist on the middle of the breastbone and push firmly backward.
@@ -63,6 +71,11 @@ ambulance, then:
 2. **Up to 5 chest thrusts:** heel of your hand on the **lower half of the
    breastbone**; press hard into the chest with a quick thrust. Check after
    each one.
+
+   ![Rescuer behind the person, hands on the middle of the chest](images/choking-chest-thrust.png)
+
+   *Chest thrust (US Army drawing). Australian method: the heel of your hand
+   on the lower half of the breastbone.*
 3. **Keep alternating** 5 back blows and 5 chest thrusts until it clears or
    help arrives.
 4. If they turn blue, go limp or pass out: **start CPR, beginning with
@@ -76,3 +89,4 @@ ambulance, then:
   https://www.healthdirect.gov.au/choking
 - MedlinePlus (US National Library of Medicine), Choking – adult or child over
   1 year: https://medlineplus.gov/ency/article/000049.htm
+- Drawings: see [images/CREDITS.md](images/CREDITS.md)

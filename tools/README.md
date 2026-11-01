@@ -19,5 +19,8 @@ Run them from the Arkpi folder, for example:
 
 Other files here:
 
+- `make-image.py`: turns any picture into a small greyscale PNG for a guide
+  (`tools/.venv/bin/python tools/make-image.py input.jpg 03-water/images/name.png 480`)
 - `library-sources.tsv`: the list of libraries the download script knows about
-- `website-config.yml`, `website-requirements.txt`: settings for the website build
+- `website-config.yml`, `requirements.txt`: settings and Python packages for the
+  website build and image tool

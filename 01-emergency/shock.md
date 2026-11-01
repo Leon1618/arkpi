@@ -24,12 +24,18 @@ bleeding, severe burns, serious injury, infection or allergic reactions.
 4. If they are conscious and have **no head, neck, spine or leg injury**: lay
    them on their back and **raise their legs about 12 inches (30 cm)**, head
    flat. If raising the legs hurts or could cause harm, leave them flat.
+
+   ![Person lying on their back with feet raised on a pack](images/shock-legs-raised.png)
 5. Treat other injuries (for bleeding, see
    [severe-bleeding.md](severe-bleeding.md)).
 6. **Keep them warm** and comfortable. Loosen tight clothing.
+
+   ![Person lying covered by a blanket, feet raised](images/shock-keep-warm.png)
 7. If they vomit or drool, turn their head to the side so they don't choke.
    If a spine injury is possible, roll the **whole body** together, keeping
    head, neck and back in line.
+
+   ![Person's head turned to one side](images/shock-head-to-side.png)
 
 ## Don't
 
@@ -43,3 +49,4 @@ bleeding, severe burns, serious injury, infection or allergic reactions.
 
 - MedlinePlus (US National Library of Medicine), Shock:
   https://medlineplus.gov/ency/article/000039.htm
+- Drawings: see [images/CREDITS.md](images/CREDITS.md)

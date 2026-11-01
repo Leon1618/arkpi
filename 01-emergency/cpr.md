@@ -25,6 +25,10 @@ For an adult who is **unresponsive and not breathing normally**.
    - Pinch the nose, seal your mouth over theirs, and breathe for about
      **1 second** each, enough to make the chest rise.
    - Keep the pause for breaths **under 10 seconds**.
+   ![Opening the airway: one hand tilts the head back, two fingers lift the chin](images/cpr-head-tilt-chin-lift.png)
+   ![Rescue breath: nose pinched, mouth sealed over the person's mouth](images/cpr-rescue-breathing.png)
+
+   *Head tilt and chin lift, then a rescue breath.*
 7. **Repeat 30 compressions : 2 breaths.** With two or more rescuers, swap the
    person doing compressions every **2 minutes** (about 5 cycles). It's tiring.
 8. **Use the AED as soon as it arrives.** Turn it on and do exactly what it
@@ -38,12 +42,18 @@ trained help takes over.
 If they start breathing, roll them onto their side (recovery position) and
 keep checking their breathing until help arrives.
 
+![Person lying on their side, top knee bent, head resting on their hand](images/recovery-position.png)
+
+*Recovery position.*
+
 ## Special cases
 
 - **Suspected opioid overdose:** if naloxone (Narcan) is available, give it,
   but don't stop CPR to do so.
 - **Suspected spine injury:** open the airway by pulling the jaw forward
   instead of tilting the head.
+
+  ![Jaw thrust: fingers behind the angles of the jaw push it forward](images/cpr-jaw-thrust.png)
 - **Not a health professional?** Don't spend time checking for a pulse.
 
 ## In Australia: DRSABCD
@@ -76,3 +86,4 @@ Association, or your local fire department) while you can.
   after onset of puberty: https://medlineplus.gov/ency/article/000013.htm
 - healthdirect (Australian Government), How to perform CPR:
   https://www.healthdirect.gov.au/how-to-perform-cpr
+- Drawings: see [images/CREDITS.md](images/CREDITS.md)

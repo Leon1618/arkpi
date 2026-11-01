@@ -15,6 +15,10 @@ If phones work, call your local emergency number, or send someone for help,
    stop the bleeding.
 3. **Keep pressing.**
 
+![Hands pressing a dressing firmly onto a leg wound](images/bleeding-direct-pressure.png)
+
+*Firm, direct pressure on the wound.*
+
 If pressure does not stop the bleeding and the dressing becomes soaked with
 blood, **and the wound is on an arm or leg**, apply a tourniquet.
 
@@ -32,8 +36,15 @@ blood, **and the wound is on an arm or leg**, apply a tourniquet.
    itself if you can). Leaving it on too long damages tissue, and the time
    helps medical staff decide who to treat first.
 
-Illustrated steps: [tourniquet-poster-dhs.pdf](tourniquet-poster-dhs.pdf)
-(US Department of Homeland Security, in this folder).
+![Tourniquet on the thigh above a wound on the lower leg, not over the knee](images/tourniquet-placement.png)
+
+*Above the wound, between the wound and the heart, never over a joint.*
+
+![DHS Stop the Bleed poster: seven steps for applying a tourniquet](images/tourniquet-poster.png)
+
+*All seven steps. Full-size poster:
+[tourniquet-poster-dhs.pdf](tourniquet-poster-dhs.pdf) (US Department of
+Homeland Security, in this folder).*
 
 ## Be ready before you need this
 
@@ -49,3 +60,4 @@ Illustrated steps: [tourniquet-poster-dhs.pdf](tourniquet-poster-dhs.pdf)
 - DHS / Stop the Bleed, "Applying a Tourniquet" poster (STB_Tourniquet_08-06-2018):
   https://www.dhs.gov/publication/stop-bleed-tourniquet
 - DHS, Stop the Bleed: https://www.dhs.gov/stopthebleed
+- Drawings: see [images/CREDITS.md](images/CREDITS.md)

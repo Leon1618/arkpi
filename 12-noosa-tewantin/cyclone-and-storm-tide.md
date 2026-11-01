@@ -55,6 +55,10 @@ emergency plan now.** Depending on official advice:
 A storm tide happens when a storm pushes sea water onshore on top of the normal
 tide, flooding low coastal land.
 
+![Diagram: cyclone winds pile water toward the coast, and low pressure under the eye raises it further](images/storm-surge.png)
+
+*Wind pushes water ashore; low pressure near the eye lifts it a little more.*
+
 - Stay inside until you're officially told it's safe.
 - Don't use wet electrical appliances. Watch for fallen power lines, damaged
   bridges and trees.
@@ -80,3 +84,4 @@ tide, flooding low coastal land.
 
 - Noosa Council, Emergency Action Guide 2024 (Cyclone and Storm surge
   sections): https://www.noosa.qld.gov.au/Community/Disasters-and-emergencies
+- Diagram: see [images/CREDITS.md](images/CREDITS.md)

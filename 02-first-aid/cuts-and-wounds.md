@@ -12,6 +12,11 @@ For heavy bleeding that won't stop, go to
 4. Put on **antibacterial ointment** and cover it with a clean bandage that
    won't stick to the wound.
 
+   ![Placing a dressing directly on a leg wound](images/dressing-on-wound.png)
+   ![Wrapping the dressing's tail around the leg](images/dressing-wrap.png)
+
+   *Put the dressing straight onto the wound, then wrap it to hold it in place.*
+
 ## Minor puncture (nail, splinter, thorn)
 
 1. **Wash your hands** with soap.
@@ -61,3 +66,4 @@ For heavy bleeding that won't stop, go to
 
 - MedlinePlus (US National Library of Medicine), Cuts and puncture wounds:
   https://medlineplus.gov/ency/article/000043.htm
+- Drawings: see [images/CREDITS.md](images/CREDITS.md)

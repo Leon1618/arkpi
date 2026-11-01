@@ -34,6 +34,7 @@ Copy this folder to a computer, USB drive or phone, and everything is there.
 | [10-navigation-and-maps](10-navigation-and-maps/README.md) | Finding your way without GPS |
 | [11-preparedness](11-preparedness/README.md) | Checklists for before a disaster |
 | [12-noosa-tewantin](12-noosa-tewantin/README.md) | Local contacts, warnings and hazards for Noosa Shire, Queensland |
+| [13-literature](13-literature/README.md) | 100 great public-domain books, as plain text |
 | [library](library/README.md) | Large offline libraries (Wikipedia, medical encyclopedia…), downloaded separately |
 | [tools](tools/README.md) | Optional scripts. You don't need them to read anything. |
 
@@ -57,8 +58,12 @@ browser, print it, or paste it into a message.
 2. **Each page ends with a Sources section** listing where the information came
    from and the date it was checked.
 3. **One topic per page**, named in plain words, inside the right numbered
-   folder. Files it needs (images, PDFs) go next to it.
-4. These pages don't replace training. Take a first-aid course while you can.
+   folder. Files it needs (PDFs) go next to it; pictures go in the folder's
+   `images/`.
+4. **Pictures are small and black-and-white**: drawings and diagrams, converted
+   with `tools/make-image.py` (greyscale, usually under 50 KB). Only public
+   domain or freely licensed images, each credited in `images/CREDITS.md`.
+5. These pages don't replace training. Take a first-aid course while you can.
 
 US federal government publications (CDC, FEMA, Ready.gov, DHS) are in the
 public domain. Content from other organizations is summarized and linked

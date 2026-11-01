@@ -53,8 +53,10 @@ Too much salt or sugar makes it harmful, and too little makes it weak.
 - No ORS and no ingredients? Give safe water, broth or other fluids. **Avoid
   juice, soft drinks and sports drinks** for diarrhea; they can make it worse.
 
-Illustrated steps: [rehydration-poster-cdc.pdf](rehydration-poster-cdc.pdf)
-(CDC, in this folder).
+![CDC poster: how to make and use oral rehydration solution](images/rehydration-poster.png)
+
+*Full-size poster: [rehydration-poster-cdc.pdf](rehydration-poster-cdc.pdf)
+(CDC, in this folder).*
 
 ## Get medical help right away if
 
@@ -78,3 +80,4 @@ Illustrated steps: [rehydration-poster-cdc.pdf](rehydration-poster-cdc.pdf)
 - CDC, How to make and use oral rehydration solution (poster CS 229310):
   https://www.cdc.gov/global-water-sanitation-hygiene/media/pdfs/11_229310-j_ors_print-africa.pdf
 - CDC, Cholera treatment: https://www.cdc.gov/cholera/treatment/index.html
+- Poster image: see [images/CREDITS.md](images/CREDITS.md)

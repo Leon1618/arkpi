@@ -48,6 +48,10 @@ settle in a few hours, or it gets worse after 1–2 days.
 
 The **paralysis tick** is the most common tick in eastern Australia.
 
+![Drawing of an adult female paralysis tick, Ixodes holocyclus](images/paralysis-tick.png)
+
+*Adult female paralysis tick (enlarged).*
+
 1. **Kill it first:** freeze it with an **ether-containing spray** from a
    pharmacy. It should drop off within about 5 minutes. (If it's embedded,
    permethrin cream can be used.)
@@ -91,3 +95,4 @@ stung you up there, treat it as a box jellyfish.
 - healthdirect, Spider bites: https://www.healthdirect.gov.au/spider-bites
 - healthdirect, Tick bites: https://www.healthdirect.gov.au/tick-bites
 - healthdirect, Jellyfish stings: https://www.healthdirect.gov.au/jellyfish-stings
+- Drawing: see [images/CREDITS.md](images/CREDITS.md)

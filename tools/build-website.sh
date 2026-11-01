@@ -13,14 +13,15 @@ if [[ ! -x "$VENV/bin/mkdocs" ]]; then
   echo "First run: installing MkDocs into tools/.venv…"
   python3 -m venv "$VENV"
   "$VENV/bin/pip" install --quiet --upgrade pip
-  "$VENV/bin/pip" install --quiet -r "$TOOLS/website-requirements.txt"
+  "$VENV/bin/pip" install --quiet -r "$TOOLS/requirements.txt"
 fi
 
 # Gather the readable pages (not the big .zim libraries) into a temp folder
 rm -rf "$SRC"
 rsync -a \
   --exclude '.*' --exclude 'website/' --exclude 'private/' --exclude 'downloads/' \
-  --exclude '*.zim' --exclude '*.sh' --exclude '*.tsv' --exclude '*.yml' --exclude '*.txt' \
+  --include '13-literature/***' \
+  --exclude '*.zim' --exclude '*.sh' --exclude '*.py' --exclude '*.tsv' --exclude '*.yml' --exclude '*.txt' \
   "$ROOT/" "$SRC/"
 
 "$VENV/bin/mkdocs" build --quiet --strict --clean -f "$TOOLS/website-config.yml"

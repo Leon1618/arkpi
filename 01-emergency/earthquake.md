@@ -6,6 +6,8 @@
 2. **Cover** your head and neck with one arm and hand.
 3. **Hold on** until the shaking stops.
 
+![Pictogram in three steps: drop to the floor, cover under a table, hold on](images/earthquake-drop-cover-hold.png)
+
 **Where you are:**
 
 - **Inside:** stay inside. **Don't run outside, and avoid doorways.**
@@ -36,3 +38,4 @@
 **Sources** (checked 2026-11-01)
 
 - Ready.gov, Earthquakes: https://www.ready.gov/earthquakes
+- Pictogram: see [images/CREDITS.md](images/CREDITS.md)
