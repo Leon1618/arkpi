@@ -4,9 +4,8 @@ Preventing disease when water and sewage systems fail.
 
 ## Pages
 
-*None yet.*
+- [Toilets and Hygiene When the Water or Sewer Fails](toilets-and-hygiene.md): handwashing, flushing, bucket toilets
 
 ## To add
 
-- Emergency toilets and waste disposal
-- Handwashing with little water
+- Cleaning up after a flood: mould, mosquitoes (Queensland Health)

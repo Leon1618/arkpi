@@ -12,3 +12,6 @@ tools/.venv/
 
 # Council documents: get them with tools/download-local.sh
 12-noosa-tewantin/downloads/
+
+# Downloaded map data (tools/make-map.py fetches it again if missing)
+tools/.map-cache.json

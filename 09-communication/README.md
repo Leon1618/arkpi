@@ -4,10 +4,4 @@ Staying in touch and getting help without phones or internet.
 
 ## Pages
 
-*None yet.*
-
-## To add
-
-- Emergency radio frequencies
-- Ham and GMRS radio basics
-- Signaling for help
+- [Emergency Communication](emergency-communication.md): 000 and 112, radio, UHF CB emergency channels, signalling for help

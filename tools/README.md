@@ -19,6 +19,9 @@ Run them from the Arkpi folder, for example:
 
 Other files here:
 
+- `make-map.py`: redraws the Noosa maps and list of key places from
+  OpenStreetMap (`tools/.venv/bin/python tools/make-map.py`; needs internet the
+  first time)
 - `make-image.py`: turns any picture into a small greyscale PNG for a guide
   (`tools/.venv/bin/python tools/make-image.py input.jpg 03-water/images/name.png 480`)
 - `build-reader.py`, `reader-template.html`: how `START-HERE.html` is made. The

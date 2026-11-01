@@ -4,9 +4,5 @@ Lighting fires safely, and light when the power is out.
 
 ## Pages
 
-*None yet.*
-
-## To add
-
-- Lighting and keeping a fire safely
-- Safe use of candles and lamps
+- [Lighting a Fire](lighting-a-fire.md): site, tinder and kindling, fire lays, no-match methods
+- [Safe Lighting in a Power Cut](safe-lighting.md): torches, not candles

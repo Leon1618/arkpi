@@ -11,6 +11,16 @@ separately into this folder as `.zim` files.
 ./tools/download-library.sh --tier essential      # about 1 GB of core survival content
 ```
 
+## Survival manual (PDF, 24 MB)
+
+The US Army's *ATP 3-50.21 Survival* (2018) is public domain and covers water,
+fire, shelter, navigation and knots in depth. Many drawings in this ark come
+from it. Save it here:
+
+```bash
+curl -L -o library/atp-3-50-21-survival.pdf "https://armypubs.army.mil/epubs/DR_pubs/DR_a/pdf/web/ARN12086_ATP%203-50x21%20FINAL%20WEB%202.pdf"
+```
+
 ## Read the libraries (no internet needed)
 
 - **Easiest:** install the free **Kiwix** app (Mac, Windows, Linux, Android,

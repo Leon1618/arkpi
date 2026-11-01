@@ -4,10 +4,9 @@ Electricity when the grid is down.
 
 ## Pages
 
-*None yet.*
+- [Generators and Backup Power](generators-and-backup-power.md)
+- During an outage: see [Power Outage](../01-emergency/power-outage.md)
 
 ## To add
 
-- Generator safety
-- Using a car battery for power
 - Small solar setups
