@@ -1,16 +1,20 @@
 # 02 · First Aid
 
 Care for injuries and illness once the immediate danger has passed.
+For life-threatening situations, start with [01-emergency](../01-emergency/README.md).
 
 ## Pages
 
-*None yet.*
+- [Cuts and Puncture Wounds](cuts-and-wounds.md), including signs of infection
+- [Broken Bones](broken-bones.md), including improvised splints
+- [Dehydration and Oral Rehydration Solution](dehydration.md), with a homemade ORS recipe
+- [Hypothermia](hypothermia.md)
+- [Heat Illness](heat-illness.md)
 
 ## To add
 
-- Wound cleaning and signs of infection
-- Fractures and splinting
-- Dehydration and oral rehydration solution
-- Hypothermia and heat stroke
+- Sprains and strains
+- Bites and stings
+- Eye injuries
 - Common medications: uses, doses, expiry
 - Emergency childbirth
