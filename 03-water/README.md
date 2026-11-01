@@ -4,9 +4,10 @@ Finding, treating and storing drinking water.
 
 ## Pages
 
-- [Making Water Safe to Drink](making-water-safe.md)
+- [Finding Water in an Emergency](finding-water.md): safe sources in and around the home
+- [Making Water Safe to Drink](making-water-safe.md): boiling, bleach, and what neither can fix
+- [Storing an Emergency Water Supply](storing-water.md): how much, containers, cleaning, labeling
 
 ## To add
 
-- Finding water in and around the home
-- Storing an emergency water supply
+- Disinfecting a well after a flood
