@@ -1,0 +1,24 @@
+# Offline reference libraries from https://download.kiwix.org/zim/
+# fetch-content.sh picks the newest <prefix>_YYYY-MM.zim in <dir> and checks its sha256.
+# Sizes are approximate (as of 2026-11) — check free disk space before downloading.
+#
+# id	dir	prefix	size	tier	description
+zimgit-water	other	zimgit-water_en	20M	essential	Water collection, treatment and sanitation (curated survival collection)
+zimgit-medicine	other	zimgit-medicine_en	67M	essential	Field medicine and first-aid manuals (curated survival collection)
+zimgit-post-disaster	other	zimgit-post-disaster_en	615M	essential	Post-disaster rebuilding, shelter, power and agriculture manuals
+zimgit-food	other	zimgit-food-preparation_en	93M	essential	Food preparation and preservation
+zimgit-knots	other	zimgit-knots_en	27M	essential	Knots and rope work
+wikimed-en-mini	wikipedia	wikipedia_en_medicine_mini	166M	essential	WikiMed medical encyclopedia, English (intro paragraphs only)
+wikimed-en	wikipedia	wikipedia_en_medicine_maxi	1.7G	recommended	WikiMed medical encyclopedia, English (full, with images)
+wikimed-pt	wikipedia	wikipedia_pt_medicine_maxi	281M	recommended	WikiMed medical encyclopedia, Portuguese (full, with images)
+outdoors-se	stack_exchange	outdoors.stackexchange.com_en_all	135M	recommended	The Great Outdoors Q&A (camping, wilderness survival)
+ham-se	stack_exchange	ham.stackexchange.com_en_all	74M	recommended	Amateur radio Q&A (emergency communication)
+cooking-se	stack_exchange	cooking.stackexchange.com_en_all	227M	recommended	Cooking and food safety Q&A
+gardening-se	stack_exchange	gardening.stackexchange.com_en_all	890M	optional	Gardening and growing food Q&A
+diy-se	stack_exchange	diy.stackexchange.com_en_all	1.9G	optional	Home repair Q&A
+wikivoyage-en	wikivoyage	wikivoyage_en_all_nopic	260M	optional	Travel guide, English, no images (maps and regional info)
+ifixit	ifixit	ifixit_en_all	3.3G	optional	Repair guides for devices and equipment
+wikipedia-en-mini	wikipedia	wikipedia_en_all_mini	13G	optional	English Wikipedia, intro paragraphs only
+wikipedia-pt-nopic	wikipedia	wikipedia_pt_all_nopic	6.6G	optional	Portuguese Wikipedia, full text, no images
+wikipedia-en-nopic	wikipedia	wikipedia_en_all_nopic	49G	large	English Wikipedia, full text, no images
+wikipedia-en-maxi	wikipedia	wikipedia_en_all_maxi	119G	large	English Wikipedia, full, with images

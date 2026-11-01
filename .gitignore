@@ -1,0 +1,12 @@
+# Large downloaded content lives outside git
+data/
+!data/.gitkeep
+
+# Build output
+site/build/
+
+# Python
+.venv/
+__pycache__/
+
+.DS_Store
