@@ -3,6 +3,16 @@
 Survival guides and essential information that work **without internet**.
 Copy this folder to a computer, USB drive or phone, and everything is there.
 
+## Start here
+
+**Open [`START-HERE.html`](START-HERE.html) in any web browser** (double-click
+it). It shows the emergencies first, walks you through each guide one step at a
+time with drawings, searches everything, and links to the books. It works with
+no internet, straight from this folder or a USB stick.
+
+Every guide is also a plain text file in the numbered folders below, so you
+can read it in any text editor or print it.
+
 > **In an emergency right now:**
 > [Severe bleeding](01-emergency/severe-bleeding.md) ·
 > [CPR](01-emergency/cpr.md) ·
@@ -63,7 +73,9 @@ browser, print it, or paste it into a message.
 4. **Pictures are small and black-and-white**: drawings and diagrams, converted
    with `tools/make-image.py` (greyscale, usually under 50 KB). Only public
    domain or freely licensed images, each credited in `images/CREDITS.md`.
-5. These pages don't replace training. Take a first-aid course while you can.
+5. **After changing any guide, run `./tools/update-reader.sh`** so
+   `START-HERE.html` shows the change.
+6. These pages don't replace training. Take a first-aid course while you can.
 
 US federal government publications (CDC, FEMA, Ready.gov, DHS) are in the
 public domain. Content from other organizations is summarized and linked

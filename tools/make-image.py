@@ -5,7 +5,7 @@ Usage:
 
 Converts to greyscale, shrinks to max-width pixels (default 480) and reduces
 to 16 shades of grey, so most drawings end up well under 50 KB.
-Needs Pillow (installed by tools/build-website.sh, or: pip install pillow).
+Needs Pillow (installed by tools/update-reader.sh, or: pip install pillow).
 """
 import sys
 

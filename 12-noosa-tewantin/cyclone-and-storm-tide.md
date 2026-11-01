@@ -59,6 +59,7 @@ tide, flooding low coastal land.
 
 *Wind pushes water ashore; low pressure near the eye lifts it a little more.*
 
+
 - Stay inside until you're officially told it's safe.
 - Don't use wet electrical appliances. Watch for fallen power lines, damaged
   bridges and trees.

@@ -25,10 +25,12 @@ For an adult who is **unresponsive and not breathing normally**.
    - Pinch the nose, seal your mouth over theirs, and breathe for about
      **1 second** each, enough to make the chest rise.
    - Keep the pause for breaths **under 10 seconds**.
+
    ![Opening the airway: one hand tilts the head back, two fingers lift the chin](images/cpr-head-tilt-chin-lift.png)
    ![Rescue breath: nose pinched, mouth sealed over the person's mouth](images/cpr-rescue-breathing.png)
 
    *Head tilt and chin lift, then a rescue breath.*
+
 7. **Repeat 30 compressions : 2 breaths.** With two or more rescuers, swap the
    person doing compressions every **2 minutes** (about 5 cycles). It's tiring.
 8. **Use the AED as soon as it arrives.** Turn it on and do exactly what it
@@ -54,6 +56,7 @@ keep checking their breathing until help arrives.
   instead of tilting the head.
 
   ![Jaw thrust: fingers behind the angles of the jaw push it forward](images/cpr-jaw-thrust.png)
+
 - **Not a health professional?** Don't spend time checking for a pulse.
 
 ## In Australia: DRSABCD

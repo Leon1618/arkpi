@@ -26,11 +26,13 @@ bleeding, severe burns, serious injury, infection or allergic reactions.
    flat. If raising the legs hurts or could cause harm, leave them flat.
 
    ![Person lying on their back with feet raised on a pack](images/shock-legs-raised.png)
+
 5. Treat other injuries (for bleeding, see
    [severe-bleeding.md](severe-bleeding.md)).
 6. **Keep them warm** and comfortable. Loosen tight clothing.
 
    ![Person lying covered by a blanket, feet raised](images/shock-keep-warm.png)
+
 7. If they vomit or drool, turn their head to the side so they don't choke.
    If a spine injury is possible, roll the **whole body** together, keeping
    head, neck and back in line.

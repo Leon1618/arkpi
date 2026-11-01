@@ -1,3 +1,2 @@
-mkdocs==1.6.1
-mkdocs-material==9.5.39
+markdown==3.11.2
 pillow==10.4.0

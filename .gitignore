@@ -5,10 +5,8 @@ library/*
 # Your own family information: never shared
 private/
 
-# Generated website and its Python setup: rebuild with tools/build-website.sh
-website/
+# Python packages for the tools (rebuilt by tools/update-reader.sh)
 tools/.venv/
-tools/.website-src/
 
 .DS_Store
 

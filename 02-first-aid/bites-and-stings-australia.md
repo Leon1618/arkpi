@@ -52,6 +52,7 @@ The **paralysis tick** is the most common tick in eastern Australia.
 
 *Adult female paralysis tick (enlarged).*
 
+
 1. **Kill it first:** freeze it with an **ether-containing spray** from a
    pharmacy. It should drop off within about 5 minutes. (If it's embedded,
    permethrin cream can be used.)
