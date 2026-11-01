@@ -10,11 +10,11 @@ For life-threatening situations, start with [01-emergency](../01-emergency/READM
 - [Dehydration and Oral Rehydration Solution](dehydration.md), with a homemade ORS recipe
 - [Hypothermia](hypothermia.md)
 - [Heat Illness](heat-illness.md)
+- [Bites and Stings (Australia)](bites-and-stings-australia.md): snakes, spiders, ticks, bluebottles
 
 ## To add
 
 - Sprains and strains
-- Bites and stings
 - Eye injuries
 - Common medications: uses, doses, expiry
 - Emergency childbirth

@@ -46,6 +46,23 @@ keep checking their breathing until help arrives.
   instead of tilting the head.
 - **Not a health professional?** Don't spend time checking for a pulse.
 
+## In Australia: DRSABCD
+
+The same 30 compressions : 2 breaths at 100–120 per minute, remembered as
+**DRSABCD**:
+
+- **D**anger: make sure it's safe for you.
+- **R**esponse: loudly ask their name, squeeze their shoulders.
+- **S**end for help: call **000** (112 from a mobile). Don't leave them.
+- **A**irway: check the mouth; tilt the head back and lift the chin.
+- **B**reathing: look, listen and feel for 10 seconds.
+- **C**PR: press down about **one third of the chest depth**; 30:2, about
+  5 cycles every 2 minutes. **Can't give breaths? Do compressions only
+  without stopping.** It may still save a life.
+- **D**efibrillation: attach an AED as soon as one arrives and follow its
+  voice prompts. Don't stop compressions to go and get one. Pads: upper right
+  chest below the collarbone, and left side under the armpit.
+
 ## Be ready
 
 CPR is a physical skill. Take a hands-on course (Red Cross, American Heart
@@ -57,3 +74,5 @@ Association, or your local fire department) while you can.
 
 - MedlinePlus (US National Library of Medicine), CPR – adults and children
   after onset of puberty: https://medlineplus.gov/ency/article/000013.htm
+- healthdirect (Australian Government), How to perform CPR:
+  https://www.healthdirect.gov.au/how-to-perform-cpr

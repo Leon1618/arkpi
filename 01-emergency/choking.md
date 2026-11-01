@@ -1,5 +1,9 @@
 # Choking (Adults and Children Over 1 Year)
 
+> **In Australia, the official advice is different:** use **back blows and
+> chest thrusts, not abdominal thrusts** (abdominal thrusts can break ribs and
+> damage organs). See [Australian method](#australian-method) below.
+
 ## Is it really choking?
 
 Ask: **"Are you choking? Can you speak?"**
@@ -48,9 +52,27 @@ fist on the middle of the breastbone and push firmly backward.
 > Infants under 1 year need a different technique. Learn it in a first-aid
 > course.
 
+## Australian method
+
+If coughing doesn't clear it, **call 000** (112 from a mobile) for an
+ambulance, then:
+
+1. **Up to 5 back blows:** sharp blows between the shoulder blades with the
+   heel of your hand, with the person leaning forward (not upright). Check
+   after each blow whether it has cleared.
+2. **Up to 5 chest thrusts:** heel of your hand on the **lower half of the
+   breastbone**; press hard into the chest with a quick thrust. Check after
+   each one.
+3. **Keep alternating** 5 back blows and 5 chest thrusts until it clears or
+   help arrives.
+4. If they turn blue, go limp or pass out: **start CPR, beginning with
+   compressions.**
+
 ---
 
 **Sources** (checked 2026-11-01)
 
+- healthdirect (Australian Government), Choking (Australian method):
+  https://www.healthdirect.gov.au/choking
 - MedlinePlus (US National Library of Medicine), Choking – adult or child over
   1 year: https://medlineplus.gov/ency/article/000049.htm

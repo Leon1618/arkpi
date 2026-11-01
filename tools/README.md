@@ -9,6 +9,7 @@ They run on Mac and Linux.
 | `download-library.sh` | Downloads offline libraries into `library/` (needs internet) |
 | `open-library.sh` | Opens the downloaded libraries in a browser at http://localhost:8080 |
 | `build-website.sh` | Turns the guides into a searchable website in `website/` |
+| `download-local.sh` | Downloads Noosa Council's emergency guide and local flood maps into `12-noosa-tewantin/downloads/` (needs internet) |
 
 Run them from the Arkpi folder, for example:
 

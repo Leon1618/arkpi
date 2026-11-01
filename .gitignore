@@ -11,3 +11,6 @@ tools/.venv/
 tools/.website-src/
 
 .DS_Store
+
+# Council documents: get them with tools/download-local.sh
+12-noosa-tewantin/downloads/

@@ -1,5 +1,12 @@
 # Burns
 
+> **Australian advice:** cool the burn under **cool running water for at least
+> 20 minutes**, as soon as possible. It still helps up to **3 hours** after the
+> burn. Chemical burns: remove contaminated clothing and rinse for up to 60
+> minutes. Cover with a light, loose, non-stick dressing; **cling film** works
+> well, **but not on the face**. Call **000** for deep burns, burns to the face,
+> hands or genitals, chemical or electrical burns, or any breathing difficulty.
+
 ## If someone is on fire
 
 **Stop, drop and roll.** Wrap them in something thick (a wool or cotton coat,
@@ -60,3 +67,5 @@ dry** (a wooden broom handle, for example).
 
 - MedlinePlus (US National Library of Medicine), Burns:
   https://medlineplus.gov/ency/article/000030.htm
+- healthdirect (Australian Government), Burns and scalds:
+  https://www.healthdirect.gov.au/burns-and-scalds

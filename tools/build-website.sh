@@ -19,7 +19,7 @@ fi
 # Gather the readable pages (not the big .zim libraries) into a temp folder
 rm -rf "$SRC"
 rsync -a \
-  --exclude '.*' --exclude 'website/' --exclude 'private/' \
+  --exclude '.*' --exclude 'website/' --exclude 'private/' --exclude 'downloads/' \
   --exclude '*.zim' --exclude '*.sh' --exclude '*.tsv' --exclude '*.yml' --exclude '*.txt' \
   "$ROOT/" "$SRC/"
 

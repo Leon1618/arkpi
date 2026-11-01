@@ -14,8 +14,9 @@ Copy this folder to a computer, USB drive or phone, and everything is there.
 > [Flood](01-emergency/flood.md) ·
 > [All emergency pages](01-emergency/README.md)
 >
-> If phones work, call your local emergency number first
-> (911 in the US, 112 in the EU, 190/192/193 in Brazil).
+> If phones work, call your local emergency number first:
+> **000 in Australia** (112 from a mobile), 911 in the US, 112 in the EU.
+> Noosa / Tewantin contacts: [12-noosa-tewantin/emergency-contacts.md](12-noosa-tewantin/emergency-contacts.md)
 
 ## What's inside
 
@@ -32,6 +33,7 @@ Copy this folder to a computer, USB drive or phone, and everything is there.
 | [09-communication](09-communication/README.md) | Contact and signaling without phones |
 | [10-navigation-and-maps](10-navigation-and-maps/README.md) | Finding your way without GPS |
 | [11-preparedness](11-preparedness/README.md) | Checklists for before a disaster |
+| [12-noosa-tewantin](12-noosa-tewantin/README.md) | Local contacts, warnings and hazards for Noosa Shire, Queensland |
 | [library](library/README.md) | Large offline libraries (Wikipedia, medical encyclopedia…), downloaded separately |
 | [tools](tools/README.md) | Optional scripts. You don't need them to read anything. |
 
@@ -48,7 +50,9 @@ browser, print it, or paste it into a message.
 
 1. **Medical and safety guidance comes only from trusted sources**: CDC,
    MedlinePlus (NIH), FEMA / Ready.gov, DHS, CPSC, WHO, Red Cross,
-   public-domain military manuals.
+   healthdirect (Australian Government), Queensland Government, Noosa Council,
+   public-domain military manuals. Where Australian advice differs, the page
+   says so.
    Never from memory.
 2. **Each page ends with a Sources section** listing where the information came
    from and the date it was checked.
