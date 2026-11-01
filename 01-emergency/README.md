@@ -2,14 +2,25 @@
 
 Short, urgent pages for the first minutes. **Read these first.**
 
-## Pages
+## Someone is hurt
 
 - [Severe Bleeding](severe-bleeding.md)
+- [CPR (Adult)](cpr.md)
+- [Choking](choking.md)
+- [Burns](burns.md)
+- [Shock](shock.md)
+- [Carbon Monoxide Poisoning](carbon-monoxide.md)
+
+## Disaster is happening
+
+- [Earthquake](earthquake.md)
+- [Flood](flood.md)
+- [Fire in the Home](home-fire.md)
+- [Gas Leak](gas-leak.md)
+- [Power Outage](power-outage.md)
 
 ## To add
 
-- CPR
-- Choking
-- Burns
-- Shock
-- First hour after: earthquake, flood, fire, gas leak, power outage
+- CPR and choking for infants and children
+- Severe allergic reaction (anaphylaxis)
+- Hurricane, tornado, wildfire, extreme heat and cold

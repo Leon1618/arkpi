@@ -5,7 +5,14 @@ Copy this folder to a computer, USB drive or phone, and everything is there.
 
 > **In an emergency right now:**
 > [Severe bleeding](01-emergency/severe-bleeding.md) ·
-> [No safe water](03-water/making-water-safe.md)
+> [CPR](01-emergency/cpr.md) ·
+> [Choking](01-emergency/choking.md) ·
+> [Burns](01-emergency/burns.md) ·
+> [Gas leak](01-emergency/gas-leak.md) ·
+> [Fire](01-emergency/home-fire.md) ·
+> [Earthquake](01-emergency/earthquake.md) ·
+> [Flood](01-emergency/flood.md) ·
+> [All emergency pages](01-emergency/README.md)
 >
 > If phones work, call your local emergency number first
 > (911 in the US, 112 in the EU, 190/192/193 in Brazil).
@@ -40,7 +47,8 @@ browser, print it, or paste it into a message.
 ## Rules for content
 
 1. **Medical and safety guidance comes only from trusted sources**: CDC,
-   FEMA / Ready.gov, DHS, WHO, Red Cross, public-domain military manuals.
+   MedlinePlus (NIH), FEMA / Ready.gov, DHS, CPSC, WHO, Red Cross,
+   public-domain military manuals.
    Never from memory.
 2. **Each page ends with a Sources section** listing where the information came
    from and the date it was checked.
