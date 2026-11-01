@@ -1,12 +1,13 @@
-# Large downloaded content lives outside git
-data/
-!data/.gitkeep
+# Big downloaded libraries: get them with tools/download-library.sh
+library/*
+!library/README.md
 
-# Build output
-site/build/
+# Your own family information: never shared
+private/
 
-# Python
-.venv/
-__pycache__/
+# Generated website and its Python setup: rebuild with tools/build-website.sh
+website/
+tools/.venv/
+tools/.website-src/
 
 .DS_Store

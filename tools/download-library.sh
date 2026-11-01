@@ -1,19 +1,19 @@
 #!/usr/bin/env bash
-# Download offline reference libraries (Kiwix ZIM files) listed in
-# content-sources/kiwix.tsv into data/zim/, verifying each sha256.
+# Download offline libraries (Kiwix .zim files) listed in
+# tools/library-sources.tsv into library/, verifying each sha256.
 #
 # Usage:
-#   fetch-content.sh --list               show available sources
-#   fetch-content.sh <id> [<id> ...]      download specific sources
-#   fetch-content.sh --tier essential     download every source in a tier
+#   download-library.sh --list               show available libraries
+#   download-library.sh <id> [<id> ...]      download specific libraries
+#   download-library.sh --tier essential     download every library in a tier
 #
-# Downloads resume if interrupted. Older versions of a source are removed
+# Downloads resume if interrupted. Older versions of a library are removed
 # only after the new one has been verified.
 set -euo pipefail
 
 ROOT="$(cd "$(dirname "$0")/.." && pwd)"
-SOURCES="$ROOT/content-sources/kiwix.tsv"
-DEST="$ROOT/data/zim"
+SOURCES="$ROOT/tools/library-sources.tsv"
+DEST="$ROOT/library"
 MIRROR="https://download.kiwix.org/zim"
 
 sources() { grep -v '^#' "$SOURCES" | grep -v '^[[:space:]]*$'; }

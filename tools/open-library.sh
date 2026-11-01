@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
-# Serve every downloaded ZIM in data/zim/ at http://localhost:8080
-# Requires kiwix-tools: brew install kiwix-tools
+# Serve every .zim file in library/ at http://localhost:8080
+# Requires kiwix-tools (Mac: brew install kiwix-tools).
+# Or skip this script and open the .zim files in the Kiwix app: https://kiwix.org
 set -euo pipefail
 
 ROOT="$(cd "$(dirname "$0")/.." && pwd)"
@@ -12,10 +13,10 @@ if ! command -v kiwix-serve >/dev/null; then
 fi
 
 shopt -s nullglob
-zims=("$ROOT"/data/zim/*.zim)
+zims=("$ROOT"/library/*.zim)
 if (( ${#zims[@]} == 0 )); then
-  echo "No ZIM files in data/zim/. Download some first:" >&2
-  echo "  ./scripts/fetch-content.sh --tier essential" >&2
+  echo "No .zim files in library/. Download some first:" >&2
+  echo "  ./tools/download-library.sh --tier essential" >&2
   exit 1
 fi
 

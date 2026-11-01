@@ -1,5 +1,5 @@
 # Offline reference libraries from https://download.kiwix.org/zim/
-# fetch-content.sh picks the newest <prefix>_YYYY-MM.zim in <dir> and checks its sha256.
+# download-library.sh picks the newest <prefix>_YYYY-MM.zim in <dir> and checks its sha256.
 # Sizes are approximate (as of 2026-11) — check free disk space before downloading.
 #
 # id	dir	prefix	size	tier	description

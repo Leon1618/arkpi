@@ -1,0 +1,39 @@
+# MkDocs settings used by build-website.sh
+site_name: Arkpi · Offline Knowledge Ark
+site_description: Survival guides and essential information for an internet outage
+docs_dir: .website-src
+site_dir: ../website
+
+theme:
+  name: material
+  # No Google Fonts: everything must load without internet
+  font: false
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: red
+      toggle:
+        icon: material/brightness-4
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: red
+      toggle:
+        icon: material/brightness-7
+        name: Switch to light mode
+  features:
+    - navigation.indexes
+    - navigation.top
+    - search.highlight
+
+plugins:
+  - search
+  # Lets the site work when opened straight from disk (file://), search included
+  - offline
+
+markdown_extensions:
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.tasklist:
+      custom_checkbox: true

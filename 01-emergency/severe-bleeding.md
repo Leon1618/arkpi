@@ -1,25 +1,12 @@
----
-title: Controlling Severe Bleeding
-sources:
-  - name: DHS / Stop the Bleed — Applying a Tourniquet (poster STB_Tourniquet_08-06-2018)
-    url: https://www.dhs.gov/publication/stop-bleed-tourniquet
-    retrieved: 2026-11-01
-  - name: DHS — Stop the Bleed
-    url: https://www.dhs.gov/stopthebleed
-    retrieved: 2026-11-01
-reviewed: 2026-11-01
----
+# Severe Bleeding
 
-# Controlling Severe Bleeding
+> **Act fast.** A person who is bleeding heavily can die from blood loss
+> **within five minutes**. The people nearest are the ones who can save them.
 
-!!! danger "Act fast"
-    A person who is bleeding heavily can die from blood loss **within five
-    minutes**. The people nearest are the ones who can save them.
-
-If phones work, call your local emergency number (or send someone to get help)
+If phones work, call your local emergency number, or send someone for help,
 **while** you start these steps.
 
-## Step 1 — Direct pressure, now
+## Step 1: Direct pressure, now
 
 1. **Expose the wound.** Tear or cut clothing away so you can see where the
    blood is coming from.
@@ -31,7 +18,7 @@ If phones work, call your local emergency number (or send someone to get help)
 If pressure does not stop the bleeding and the dressing becomes soaked with
 blood, **and the wound is on an arm or leg**, apply a tourniquet.
 
-## Step 2 — Tourniquet (arm or leg only)
+## Step 2: Tourniquet (arm or leg only)
 
 1. **Place the tourniquet at least 2–3 inches (5–8 cm) from the wound,
    between the wound and the heart.** It can go over clothing.
@@ -45,12 +32,20 @@ blood, **and the wound is on an arm or leg**, apply a tourniquet.
    itself if you can). Leaving it on too long damages tissue, and the time
    helps medical staff decide who to treat first.
 
-The step-by-step DHS poster with illustrations:
-[Applying a Tourniquet (PDF)](stop-the-bleed-tourniquet-poster.pdf).
+Illustrated steps: [tourniquet-poster-dhs.pdf](tourniquet-poster-dhs.pdf)
+(US Department of Homeland Security, in this folder).
 
 ## Be ready before you need this
 
 - Keep a commercial tourniquet in your first-aid kit and car, and practice
   with it.
-- Take a free **Stop the Bleed** course while training is still available:
-  [stopthebleed.org](https://www.stopthebleed.org/).
+- Take a free Stop the Bleed course while training is available:
+  https://www.stopthebleed.org/
+
+---
+
+**Sources** (checked 2026-11-01)
+
+- DHS / Stop the Bleed, "Applying a Tourniquet" poster (STB_Tourniquet_08-06-2018):
+  https://www.dhs.gov/publication/stop-bleed-tourniquet
+- DHS, Stop the Bleed: https://www.dhs.gov/stopthebleed

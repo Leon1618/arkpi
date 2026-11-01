@@ -1,12 +1,3 @@
----
-title: Emergency Supply Kit
-sources:
-  - name: Ready.gov — Build A Kit
-    url: https://www.ready.gov/kit
-    retrieved: 2026-11-01
-reviewed: 2026-11-01
----
-
 # Emergency Supply Kit
 
 A kit you can use at home or take with you. Check it every six months and
@@ -52,8 +43,13 @@ replace expired food, water, medicine and batteries.
 - [ ] Paper and pencil
 - [ ] Books, games, puzzles and other activities for children
 
-## Arkpi addition
+## Also keep
 
-- [ ] A copy of this library on a USB drive (run `./scripts/build-site.sh`,
-      then copy the `site/build/` folder; open `index.html` in any browser)
-- [ ] A tourniquet: see [Controlling Severe Bleeding](../first-aid/severe-bleeding.md)
+- [ ] A copy of this Arkpi folder on a USB drive
+- [ ] A tourniquet (see [../01-emergency/severe-bleeding.md](../01-emergency/severe-bleeding.md))
+
+---
+
+**Sources** (checked 2026-11-01)
+
+- Ready.gov, Build A Kit: https://www.ready.gov/kit

@@ -1,18 +1,9 @@
----
-title: Making Water Safe to Drink
-sources:
-  - name: CDC — Water in an Emergency
-    url: https://www.cdc.gov/water-emergency/about/index.html
-    retrieved: 2026-11-01
-reviewed: 2026-11-01
----
-
 # Making Water Safe to Drink
 
 Use **bottled water** first if you have it. If not, **boiling is the best way
 to kill germs** in water.
 
-## Option 1 — Boil it (best)
+## Option 1: Boil it (best)
 
 1. **If the water is cloudy**, filter it through a clean cloth, paper towel or
    coffee filter, *or* let it settle and pour off the clear water.
@@ -23,7 +14,7 @@ to kill germs** in water.
 4. *Better taste:* pour it back and forth between two clean containers and let
    it stand a few hours, or add a pinch of salt per quart/liter.
 
-## Option 2 — Household bleach
+## Option 2: Household bleach
 
 Use **unscented** household chlorine bleach. If the label has directions for
 disinfecting drinking water, follow those. Otherwise, check that the active
@@ -52,9 +43,9 @@ ingredient is **sodium hypochlorite**. Most US bleach is 5–9%.
 
 ## Warnings
 
-!!! warning "Boiling and bleach can't fix everything"
-    Water contaminated with **fuel, toxic chemicals or radioactive material**
-    cannot be made safe by boiling or disinfecting. Find another source.
+> **Boiling and bleach can't fix everything.** Water contaminated with
+> **fuel, toxic chemicals or radioactive material** cannot be made safe by
+> boiling or disinfecting. Find another source.
 
 - **Never drink radiator or boiler water** from a home heating system.
 - Until water is treated, don't use it for drinking, washing dishes, brushing
@@ -65,3 +56,10 @@ ingredient is **sodium hypochlorite**. Most US bleach is 5–9%.
   are sensitive to iodine. No one should drink it for more than a few weeks at
   a time.
 - **Portable filters do not remove viruses.** Disinfect filtered water too.
+
+---
+
+**Sources** (checked 2026-11-01)
+
+- CDC, Water in an Emergency:
+  https://www.cdc.gov/water-emergency/about/index.html
